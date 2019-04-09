@@ -7,16 +7,20 @@
     "test": "jest"
   },
   "dependencies": {
-    "@types/redux-form": "^8.1.1",
+    "@types/redux-form": "^8.1.0",
+    "@types/redux-persist": "^4.3.1",
     "axios": "^0.18.0",
-    "react": "16.6.3",
+    "react": "^16.8.3",
     "react-native": "^0.59.4",
+    "react-redux": "^7.0.1",
     "redux-form": "^8.1.0",
-    "redux-i18n": "^1.5.17"
+    "redux-i18n": "^1.5.17",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "@types/jest": "23.3.13",
-    "@types/react": "^16.7.22",
+    "@types/react": "^16.8.13",
     "@types/react-dom": "^16.8.3",
     "@types/react-native": "0.57.32",
     "@types/react-redux": "^7.0.6",
