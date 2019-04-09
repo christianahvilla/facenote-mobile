@@ -1,5 +1,5 @@
 import { Action } from "redux";
-import { postConstant } from "../constants/post.constant";
+import { postConstant } from "../constants/post.constants";
 import PostModel from "../models/post.model";
 
 export interface IActionFetchBegin extends Action {

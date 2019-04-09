@@ -1,5 +1,5 @@
 import * as types from "../types/post.types"
-import { postConstant } from "../constants/post.constant";
+import { postConstant } from "../constants/post.constants";
 import PostModel from "../models/post.model";
 import { Dispatch } from "redux";
 import { API } from "../api/post.api";

@@ -1,7 +1,7 @@
 import PostModel from "../models/post.model";
 import { PostType } from "../types/post.types";
 import { Reducer } from "redux";
-import { postConstant } from "../constants/post.constant";
+import { postConstant } from "../constants/post.constants";
 
 interface PostState {
     loading: boolean,
