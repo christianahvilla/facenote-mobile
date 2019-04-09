@@ -1,0 +1,9 @@
+{
+    "navbar":{
+        "home": "Home"
+    },
+    "post":{
+        "attach_image": "Attach Image",
+        "publish": "Publish"
+    }
+}
