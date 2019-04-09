@@ -2,7 +2,7 @@ import { Reducer } from 'redux';
 import { TranslationType } from '../types/translation.types';
 import { translationConstants } from '../constants/translation.constants';
 
-export interface TranslateState {
+interface TranslateState {
     translate: object;
     translateOutsideComponent: object;
 }
