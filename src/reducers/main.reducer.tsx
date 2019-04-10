@@ -29,4 +29,4 @@ const rootReduer = (state: any, action: any) => {
     return appReducer(state, action)
 }
 
-export default rootReduer
+export default rootReducer
