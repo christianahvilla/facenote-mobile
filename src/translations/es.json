@@ -1,0 +1,9 @@
+{
+    "navbar":{
+        "home": "Inicio"
+    },
+    "post":{
+        "attach_image": "Agregar Imagen",
+        "publish": "Publicar"
+    }
+}
