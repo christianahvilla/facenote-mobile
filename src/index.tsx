@@ -26,7 +26,7 @@ export default class App extends Component<AppProps, AppState> {
         };
     }
     componentDidMount() {
-        SplashScreen.hide();
+        //SplashScreen.hide();
     }
     render() {
         return (
